@@ -3,7 +3,7 @@
 **Curso de Análisis Bioinformático de Datos Genómicos aplicado al Diagnóstico Genético · Bloque II**
 Belén de la Morena Barrio · CIBERER / Longseq Applications
 
-Del FASTQ al diagnóstico: control de calidad → alineamiento (minimap2) → cobertura (samtools) → variantes estructurales (Sniffles2) → visualización (IGV).
+Del FASTQ al diagnóstico: control de calidad → alineamiento (minimap2) → calidad y cobertura en SERPINC1 (samtools) → variantes estructurales (Sniffles2) → metilación por alelo (Methylartist) → visualización (IGV).
 
 ## Cómo empezar
 1. Necesitas una cuenta gratuita de GitHub (y haber iniciado sesión).
